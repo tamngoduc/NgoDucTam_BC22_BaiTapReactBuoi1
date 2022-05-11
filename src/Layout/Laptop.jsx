@@ -1,5 +1,4 @@
 import React from "react";
-
 export default function Laptop() {
   return (
     <section id="laptop" className="container-fluid pt-5 pb-5 bg-light text-dark">
