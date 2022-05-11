@@ -1,4 +1,5 @@
 import React from "react";
+import "jquery";
 
 export default function Carousel() {
   return (
